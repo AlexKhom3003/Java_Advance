@@ -1,4 +1,4 @@
-package be.IntecBrussel;
+package IntecBrussel;
 
 import java.util.ArrayList;
 import java.util.stream.Collectors;

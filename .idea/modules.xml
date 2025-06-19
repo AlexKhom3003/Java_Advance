@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/3-Stream/3-Stream.iml" filepath="$PROJECT_DIR$/3-Stream/3-Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-Collections/4-Collections.iml" filepath="$PROJECT_DIR$/4-Collections/4-Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Advanced.iml" filepath="$PROJECT_DIR$/Java_Advanced.iml" />
     </modules>
   </component>

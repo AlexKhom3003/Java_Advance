@@ -1,4 +1,4 @@
-package be.IntecBrussel;
+package IntecBrussel;
 
 import java.nio.file.Files;
 import java.nio.file.Paths;

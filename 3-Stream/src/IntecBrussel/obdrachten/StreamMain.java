@@ -1,4 +1,4 @@
-package be.IntecBrussel.obdrachten;
+package IntecBrussel.obdrachten;
 
 import java.util.Arrays;
 import java.util.List;

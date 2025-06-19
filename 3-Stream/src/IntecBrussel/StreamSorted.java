@@ -1,4 +1,4 @@
-package be.IntecBrussel;
+package IntecBrussel;
 
 import java.util.Random;
 import java.util.stream.Stream;
