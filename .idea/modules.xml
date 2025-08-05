@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/3-Stream/3-Stream.iml" filepath="$PROJECT_DIR$/3-Stream/3-Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/4-Collections/4-Collections.iml" filepath="$PROJECT_DIR$/4-Collections/4-Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Advanced.iml" filepath="$PROJECT_DIR$/Java_Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multitreading/Multitreading.iml" filepath="$PROJECT_DIR$/Multitreading/Multitreading.iml" />
     </modules>
   </component>
 </project>
